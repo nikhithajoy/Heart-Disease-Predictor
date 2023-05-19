@@ -4,6 +4,8 @@ The Heart Disease Prediction Web Application is a project aimed at predicting th
 
 Heart disease is a significant health concern globally, and early detection plays a vital role in preventing adverse outcomes. Machine learning algorithms can effectively analyze medical data and identify patterns that help in predicting the presence or absence of heart disease. This web application leverages a trained SVM model to make predictions based on user-provided inputs.
 
+![Screenshot 2023-05-20 002638](https://github.com/nikhithajoy/Heart-Disease-Predictor/assets/84142965/9618b0c4-5b9d-405b-9ac7-9d3315cae27d)
+
 Key Features:
 
 1. User-Friendly Interface: The web application has an intuitive user interface that allows users to easily interact with the prediction system.
